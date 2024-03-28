@@ -26,6 +26,11 @@ footer#rodape {
   border-top: 2px solid red;
 }
 
+form.form__contato {
+  border: 1px solid grey;
+  padding: 10px;
+}
+
 .footer__link {
   color: blue;
   font-weight: bold;

@@ -1,18 +1,6 @@
 /* ISSO E UM ARQUIVO CSS*/
 /* !important prevents a property to be overwritten*/
 
-.container {
-  padding: 20px;
-}
-
-#cabecalho {
-  background-color: blue;
-}
-
-#conteudo {
-  line-height: 1.5em;
-}
-
 h1,
 h2 {
   font-family: Georgia, "Times New Roman", Times, serif;
@@ -20,6 +8,22 @@ h2 {
 
 p {
   color: green;
+}
+
+.container {
+  padding: 20px;
+}
+
+header#cabecalho {
+  background-color: blue;
+}
+
+section#conteudo {
+  line-height: 1.5em;
+}
+
+footer#rodape {
+  border-top: 2px solid red;
 }
 
 .footer__link {

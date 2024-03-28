@@ -5,8 +5,12 @@
   padding: 20px;
 }
 
-.cabecalho {
+#cabecalho {
   background-color: blue;
+}
+
+#conteudo {
+  line-height: 1.5em;
 }
 
 h1,

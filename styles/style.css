@@ -18,6 +18,10 @@ h2 {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
+p {
+  color: green;
+}
+
 .footer__link {
   color: blue;
   font-weight: bold;

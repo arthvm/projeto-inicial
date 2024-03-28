@@ -1,7 +1,11 @@
 /* ISSO E UM ARQUIVO CSS*/
 /* !important prevents a property to be overwritten*/
 
-#cabecalho {
+.container {
+  padding: 20px;
+}
+
+.cabecalho {
   background-color: blue;
 }
 

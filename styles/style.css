@@ -15,6 +15,9 @@ p {
 }
 
 header#cabecalho {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
   background-color: blue;
 }
 
@@ -34,6 +37,21 @@ form.form__contato {
 button.form__contato--btn {
   color: white;
   background-color: blue;
+}
+
+.menu__itens {
+  display: flex;
+}
+
+.menu__item {
+  list-style: none;
+  margin: 2em;
+
+  > a {
+    > img {
+      width: 50px;
+    }
+  }
 }
 
 .footer__link {

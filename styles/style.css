@@ -1,29 +1,2 @@
 /* ISSO E UM ARQUIVO CSS*/
 /* !important prevents a property to be overwritten*/
-
-.cabecalho__titulo {
-  text-align: center;
-  color: #3322dd;
-}
-
-.menu__item {
-  list-style-type: none;
-  display: inline-block;
-  margin: 0 2%;
-  padding: 5px 5px;
-  width: 15%;
-
-  a {
-    display: inline-block;
-
-    img {
-      display: inline-block;
-      width: 25%;
-    }
-  }
-}
-
-/* .menu__nav > ul SAME ELEMENT:*/
-.menu__itens {
-  text-align: center;
-}
